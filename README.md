@@ -5,6 +5,13 @@ Name: Aravind D. Chakravarti
 
 ![Types of Polygons (Video) 17 Different Types & Examples](https://static.tutors.com/assets/images/content/tutors-types-of-polygons.jpg)
 
+## Details of implementation
+This repository contains two modules for Regular Convex Polygon.
+
+The first module "Regular Convex Polygon" contains a class, "RegConvexPolygon" which computes the area and perimeter (and also other parameters) given the number of edges and circum radius.
+
+The second module "Polygon Sequence" contains another class, "PolygonSequence" which is inherited from RegConvexPolygon.
+Given the circum radius and the maximum polygon, it computes the area to perimeter ratio. It has has a method to fetch polygon for which returns highest area to perimeter ratio
 
 #### **Definition**
 
